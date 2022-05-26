@@ -14,3 +14,7 @@ while True:
     if i % 2 == 0:
         continue
     print(i)
+
+name = "Alex"
+age = 35
+print(f"{} {}".format(name,age)) // детальнее разобрать F строки
