@@ -15,6 +15,6 @@ while True:
         continue
     print(i)
 
-name = "Alex"
-age = 35
-print(f"{} {}".format(name,age)) // детальнее разобрать F строки
+# name = "Alex"
+# age = 35
+# print(f"{} {}".format(name,age)) // детальнее разобрать F строки
